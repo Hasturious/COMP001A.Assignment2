@@ -1,4 +1,7 @@
 .content { background-color: darkslategrey;}
 body{background-color: grey;}
+
+/*Visuals for the first header with name*/
 h1{text-align: center;background-color: darkslategrey;font-family: 'Courier New', Courier, monospace;color: white;}
+/*Visuals for the footer with contact info*/
 div{text-align: center;color: white;}
