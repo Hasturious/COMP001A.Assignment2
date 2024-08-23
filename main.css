@@ -1,4 +1,5 @@
 .content { background-color: darkslategrey;}
 body{background-color: grey;}
-h1{text-align: center;border-bottom: 3px darkslategrey;}
-div{text-align: center;border-bottom:}
+h1{text-align: center;background-color: darkslategrey;}
+div{text-align: center;}
+p1{background-color: darkslategrey;font-size: larger;}
