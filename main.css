@@ -1,4 +1,4 @@
 .content { background-color: darkslategrey;}
 body{background-color: grey;}
-h1{text-align: center;background-color: darkslategrey;}
-div{text-align: center;}
+h1{text-align: center;background-color: darkslategrey;font-family: 'Courier New', Courier, monospace;color: white;}
+div{text-align: center;color: white;}
